@@ -1,0 +1,16 @@
+{
+    "name": "advanced-initiative",
+    "title": "Advanced Initiative - A D&D 5th Edition Initiative Rewrite",
+    "description": "A module for overhauling the order of combat.",
+    "author": "mtvjr (mvollingjr@gmail.com)",
+    "verson": "0.0.1",
+    "minimumCoreVersion": "0.5.5",
+    "compatibleCoreVersion": "0.5.5",
+    "system": "dnd5e",
+    "url": "https://github.com/mtvjr/AdvancedInitiative",
+    "readme": "./README.md",
+    "license": "./LICENSE",
+    "esmodules": [
+        "./scripts/init.js"
+    ]
+}
